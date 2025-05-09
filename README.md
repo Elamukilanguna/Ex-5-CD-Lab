@@ -1,4 +1,4 @@
-![Screenshot (247)](https://github.com/user-attachments/assets/46735f93-188b-4493-adbf-adf24fff63cb)# Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
+
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Date:9.5.25
 # Aim:
